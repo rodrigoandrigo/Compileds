@@ -11,4 +11,4 @@ RetriX src and built
 https://github.com/Aftnet/RetriX
 
 darknet_no_gpu Yolov4 built
-https://github.com/AlexeyAB/darknet
+https://github.com/augmentedstartups/darknet
